@@ -8,6 +8,9 @@ function App() {
 
   return (
     <div className="App">
+      <h1>
+        Latest Messages :
+      </h1>
       <Messages />
     </div>
   );

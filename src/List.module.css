@@ -1,6 +1,9 @@
 .one {
-  padding: 70px;
-  border: 8px solid #4caf50;
+  padding: 20px;
+  margin-left: 180px;
+  margin-right: 180px;
+  margin-bottom: 30px;
+  border: 2px solid #4caf50;
 }
 .btn {
   align-items: center;
